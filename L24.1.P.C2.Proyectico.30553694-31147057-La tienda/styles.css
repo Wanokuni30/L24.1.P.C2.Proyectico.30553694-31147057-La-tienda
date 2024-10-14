@@ -1,0 +1,18 @@
+h1 {
+  font-size: 30px;
+  text-align: center;
+}
+
+table {
+  border: 5px solid black;
+}
+
+tr {
+  border: 5px solid black;
+}
+td {
+  border: 5px solid black;
+}
+th {
+  border: 5px solid black;
+}
